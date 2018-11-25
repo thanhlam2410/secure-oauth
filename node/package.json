@@ -12,6 +12,7 @@
     "express": "^4.16.3",
     "lodash": "^4.17.10",
     "mongoose": "^5.1.6",
+    "sjcl": "^1.0.8",
     "socket.io": "^2.1.1",
     "socket.io-client": "^2.1.1"
   }
